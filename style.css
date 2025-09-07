@@ -117,7 +117,7 @@ nav .fa{
     display: none;
 }
 
-@media(max-width: 800px){
+@media(max-width: 700px){
     .title{
         padding-left: 2%;
     }
@@ -125,17 +125,17 @@ nav .fa{
     .title h1{
         font-family:"Open Sans", sans-serif;
         color: #fff;
-        font-size: 15px;
+        font-size: 12px;
     }
     
     .title h3{
         font-family:"Open Sans", sans-serif;
         color: #fff;
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .text-box h1{
-        font-size: 25px;
+        font-size: 20px;
     }
 
     .text-box p{
@@ -349,4 +349,5 @@ p{
     margin: 0 13px;
     cursor: pointer;
     padding: 18px 0;
+
 }

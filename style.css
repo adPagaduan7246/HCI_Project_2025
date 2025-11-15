@@ -330,6 +330,12 @@ p{
     padding: 0;
 }
 
+.cta h2{
+    color: #fff;
+    margin-bottom: 40px;
+    padding: 0;
+}
+
 /* ----footer---- */
 
 .footer{
@@ -365,3 +371,4 @@ p{
         font-size: 10px;
     }
 }
+
